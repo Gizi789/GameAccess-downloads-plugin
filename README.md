@@ -4,6 +4,8 @@ Optional companion plugin for Game Access. It runs a small local server that han
 Game Access the download sources you have configured for a game.
 Game Access works without it; links and profiles can also be added by hand.
 
+**Install page: https://gizi789.github.io/GameAccess-downloads-plugin/** (one click, with Game Access open).
+
 ## Disclaimer
 
 This software does not host, distribute or include any copyrighted content.
@@ -26,7 +28,10 @@ For each game the plugin returns sources in this order:
 
 ## Install
 
-Windows: use the installer from the Releases page. It finds your Game Access
+Easiest: open the [install page](https://gizi789.github.io/GameAccess-downloads-plugin/) and press
+**Instalar en Game Access**. Game Access downloads the plugin, checks its SHA-256 and starts it; no restart needed.
+
+Windows installer: use the installer from the [Releases page](https://github.com/Gizi789/GameAccess-downloads-plugin/releases). It finds your Game Access
 installation and places the plugin in `%APPDATA%\GameAccess\plugins`.
 Game Access starts the plugin automatically.
 
