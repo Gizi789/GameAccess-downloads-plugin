@@ -1,1 +1,9 @@
-[" https://hydralinks.cloud/sources/steamrip.json\]
+{
+  "sourceUrls": [
+    "https://hydralinks.cloud/sources/steamrip.json",
+    "https://hydralinks.cloud/sources/onlinefix.json",
+    "https://wkeynhk.online/steamgg.json",
+    "https://hydralinks.cloud/sources/gog.json",
+    "https://stupidlysimpletextshare.quest/77ae94fb09/pcgames.json"
+  ]
+}

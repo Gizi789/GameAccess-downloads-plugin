@@ -1,6 +1,6 @@
 {
     "name": "ga-torrent-plugin",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Torrent Source Provider Plugin for Game Access",
     "main": "main.js",
     "scripts": {
